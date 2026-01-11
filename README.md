@@ -1,2 +1,2 @@
-# agoda hotels
+# hotel
 
